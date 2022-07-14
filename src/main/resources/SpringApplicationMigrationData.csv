@@ -1,0 +1,5 @@
+application_id,application_name,migrated
+1,spring_test,true
+2,spring_test_old,false
+3,spring_test_three,true
+4,spring_boot_app,true
